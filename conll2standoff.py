@@ -10,7 +10,6 @@ import sys
 import re
 import os
 import codecs
-from aspell import spellchecker
 from aspell2 import correction
 
 # maximum number of sentences to include in single output document
