@@ -1,2 +1,2 @@
 # error_annotation
-Framework for pre-annotating learner corpora with typical errors
+Framework for pre-annotating learner corpora with typical errors.
