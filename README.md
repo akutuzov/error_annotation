@@ -22,10 +22,15 @@ The port values can of course be changed in the files lemmatizer.py and lemmatiz
 
 The following files should be placed in the server/src/ directory of your Brat installation:
     - aspell2.py
+    
     - conll2standoff.py
-    - docimport.py (overwriting previous one)
+    
+    - docimport.py (overwriting original one)
+    
     - freeling2conll.py
+    
     - lemmatizer2.py
+    
     - lemmatizer.py
 
 That's pretty much all. Now when a document is uploaded via Brat interface it will be automatically tagged with possible mistakes.
