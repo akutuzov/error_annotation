@@ -21,6 +21,7 @@ Freeling must run as a service with English model. Actually, as two services:
 The port values can of course be changed in the files lemmatizer.py and lemmatizer2.py. Instructions on running Freeling as a service can be found at http://nlp.lsi.upc.edu/freeling/doc/userman/html/node89.html.
 
 The following files should be placed in the server/src/ directory of your Brat installation:
+
     - aspell2.py
     
     - conll2standoff.py
@@ -38,4 +39,5 @@ That's pretty much all. Now when a document is uploaded via Brat interface it wi
 Contacts
 ========
 Andrey Kutuzov	akutuzov@hse.ru
+
 Elizaveta Kuzmenko	eakuzmenko_2@edu.hse.ru
