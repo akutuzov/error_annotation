@@ -1,4 +1,4 @@
-# error_annotation
+# Automatic Language Errors Annotation
 This is a framework for pre-annotating learner corpora with typical errors.
 The system itself is described in detail in the paper 'Semi-automated typical error annotation for learner English essays: integrating frameworks' (included in this repository).
 It can be used to ease the work of human annotator who spot errors in learner texts. It employs Aspell spellchecker and Freeling suite of linguistic analyzers (http://nlp.lsi.upc.edu/freeling/) to find positions where there is a possible error.
